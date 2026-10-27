@@ -1,0 +1,11 @@
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Windows
+Thumbs.db
+Desktop.ini
